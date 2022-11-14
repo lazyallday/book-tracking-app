@@ -2,9 +2,9 @@
 <h2>This is a project in Udacity Course: React</h2>
 
 To clone or download project:
-## `git clone`
+## `git clone https://github.com/lazyallday/book-tracking-app.git`
 
-or download on ().
+or download on (https://github.com/lazyallday/book-tracking-app).
 
 ## Available Scripts
 
